@@ -1,7 +1,7 @@
 # installation 
 run npm install,
 run npm install -g @angular/cli,
-run ng serve --open to open a dev server for live demo
+run npm start
 
 # FrequentlyAskedCom
 
