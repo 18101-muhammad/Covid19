@@ -1,3 +1,8 @@
+# installation 
+run npm install
+run npm install -g @angular/cli
+run ng serve --open to open a dev server for live demo
+
 # FrequentlyAskedCom
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
