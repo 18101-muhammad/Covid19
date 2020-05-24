@@ -1,0 +1,135 @@
+<div id="body">
+    <div id="header">
+        <div id="navbar" class="navbar top">
+            <h1 class="logo">FQ</h1>
+            <input type="text" class="searchbar">
+            <nav>
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div id="main">
+        <section id="trending-hashtags">
+            <h1>Trending Hashtags</h1>
+            <h3>#coronavirus</h3>
+            <h3>#zoom</h3>
+            <h3>#workfromhome</h3>
+            <h3>#coronavirus</h3>
+            <h3>#zoom</h3>
+            <h3>#workfromhome</h3>
+            <h3>#coronavirus</h3>
+            <h3>#zoom</h3>
+            <h3>#workfromhome</h3>
+            <h3>#dorsetCollege</h3>
+        </section>
+        <section id="question-area">
+            <div id="question-card">
+
+                <div id="ques-and-desc">
+                    <h2>What is the coronavirus</h2>
+                    <p class="ques-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                </div>
+                <div id="answer-card">
+                    <div class="vote-buttons">
+                        <button>vote up</button>
+                        <button>vote down</button>
+                    </div>
+                    <div class="ans-and-desc">
+                        <h2 class="ans">The coronavirus is a virus</h2>
+                        <p class="ans-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                    </div>
+                    <div class="references">
+                        <h3>www.google.com</h3>
+                        <h3>www.wikipedia.com</h3>
+                    </div>
+                </div>
+                <div id="answer-card">
+                    <div class="vote-buttons">
+                        <button>vote up</button>
+                        <button>vote down</button>
+                    </div>
+                    <div class="ans-and-desc">
+                        <h2 class="ans">The coronavirus is a virus</h2>
+                        <p class="ans-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                    </div>
+                    <div class="references">
+                        <h3>www.google.com</h3>
+                        <h3>www.wikipedia.com</h3>
+                    </div>
+                </div>
+                <div id="answer-card">
+                    <div class="vote-buttons">
+                        <button>vote up</button>
+                        <button>vote down</button>
+                    </div>
+                    <div class="ans-and-desc">
+                        <h2 class="ans">The coronavirus is a virus</h2>
+                        <p class="ans-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                    </div>
+                    <div class="references">
+                        <h3>www.google.com</h3>
+                        <h3>www.wikipedia.com</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div id="question-card">
+
+                <div id="ques-and-desc">
+                    <h2>How many cases of the coronavirus in Ireland</h2>
+                    <p class="ques-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                </div>
+                <div id="answer-card">
+                    <div class="vote-buttons">
+                        <button>vote up</button>
+                        <button>vote down</button>
+                    </div>
+                    <div class="ans-and-desc">
+                        <h2 class="ans">The coronavirus is a virus</h2>
+                        <p class="ans-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                    </div>
+                    <div class="references">
+                        <h3>www.google.com</h3>
+                        <h3>www.wikipedia.com</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div id="question-card">
+
+                <div id="ques-and-desc">
+                    <h2>When will dorset college open</h2>
+                    <p class="ques-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                </div>
+                <div id="answer-card">
+                    <div class="vote-buttons">
+                        <button>vote up</button>
+                        <button>vote down</button>
+                    </div>
+                    <div class="ans-and-desc">
+                        <h2 class="ans">The coronavirus is a virus</h2>
+                        <p class="ans-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id nam nulla, sunt dicta tempore eaque voluptatum ipsam asperiores laboriosam animi, ad repellat pariatur at quisquam explicabo expedita.</p>
+                    </div>
+                    <div class="references">
+                        <h3>www.google.com</h3>
+                        <h3>www.wikipedia.com</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+    <footer class="footer bg-dark">
+        <div class="social">
+            <a href="#"><i class="fab fa-facebook fa-2x"></i></a>
+            <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
+            <a href="#"><i class="fab fa-youtube fa-2x"></i></a>
+            <a href="#"><i class="fab fa-linkedin fa-2x"></i></a>
+        </div>
+        <p>Copyright &copy; 2020 - Frequently Asked</p>
+    </footer>
+</div>

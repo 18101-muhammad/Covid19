@@ -1,0 +1,27 @@
+#asked-answered {
+    display: flex;
+}
+
+
+/* .title-desc {} */
+
+.title-area {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.title-area img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.title-area .titles {
+    margin-left: 50px;
+}
+
+#profile-main-area {
+    position: relative;
+    margin: 10px;
+}

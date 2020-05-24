@@ -1,0 +1,53 @@
+#qb-main {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.title-time {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.title-hashtags h2 {
+    margin-bottom: 0px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.title-hashtags p {
+    margin-top: 0px;
+    font-weight: 10px;
+    font-size: 12px;
+}
+
+.title-hashtags p a {
+    text-decoration: underline;
+    color: #28334aff;
+}
+
+.title-hashtags p a:hover {
+    border-bottom: 1px solid #f65058ff;
+    cursor: pointer;
+}
+
+.answer-area {
+    display: none;
+}
+
+.btn {
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: #28334aff;
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    border-radius: 0px;
+    border-bottom: 2px #f65058ff solid;
+}

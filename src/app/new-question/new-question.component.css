@@ -1,0 +1,76 @@
+#ask-main-area {
+    position: relative;
+    top: 70px;
+    z-index: -1;
+    overflow-y: scroll;
+    height: 80vh;
+}
+
+.form {
+    position: absolute;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+#ask-container {
+    margin: 30px auto;
+    max-width: 400px;
+    padding: 20px;
+    position: relative;
+    top: 70px;
+    height: 80vh;
+}
+
+.form-wrap {
+    background: #fff;
+    padding: 15px 25px;
+    color: #333;
+}
+
+.form-wrap h1,
+.form-wrap p {
+    text-align: center;
+}
+
+.form-wrap .form-group {
+    margin-top: 15px;
+}
+
+.form-wrap .form-group label {
+    display: block;
+    color: #666;
+}
+
+.form-wrap .form-group input,
+.form-wrap .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: #ddd 1px solid;
+    border-radius: 5px;
+}
+
+.form-wrap button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background: #28334aff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form-wrap button:hover {
+    background: #f65058ff
+}
+
+.form-wrap .bottom-text {
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.ask-footer {
+    z-index: 1;
+}

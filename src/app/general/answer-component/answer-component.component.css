@@ -1,0 +1,34 @@
+#answer-card {
+    position: relative;
+    height: inherit;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.name-title-time {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.name-title a h2 {
+    display: inline;
+}
+
+.name-title a:hover {
+    border-bottom: 2px #f65058ff solid;
+}
+
+.name-title h4 {
+    display: inline;
+}
+
+.references h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.reference-detail h3 {
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,38 @@
+component breakdown for homepage
+
+shared module
+navbar component
+trending hashtags component
+question bar component
+answer component
+related question bar component
+footer component
+
+#########content for navbar
+logo searchbar, links
+links-->about, login/viewprofile-changes to icon
+
+styling the aim is to just have something
+so navbar done
+
+about page
+get everything to display under the nav
+
+whats realistic for tonight
+style question and get the expansion thing going
+style related and trending individually
+
+login signup, plus token storage,
+you tried, before sleep solve, you can only do login tomorrow,
+change the database
+i repeat, you can only do login tomorrow
+send email to teacher
+enter survival mode
+
+theory of everything
+use 333 to background card this website
+use search item for cards, and when expand show blatant full thing
+do some basic styling on answer card, thats all, rest is code
+
+
+

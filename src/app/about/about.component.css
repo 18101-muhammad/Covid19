@@ -1,0 +1,15 @@
+#about-page {
+    position: relative;
+    top: 70px;
+}
+
+#about {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+    height: 80vh;
+}

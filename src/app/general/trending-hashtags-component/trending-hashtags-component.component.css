@@ -1,0 +1,24 @@
+#trending-main {
+    background: #fff;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#trending-main h3 {
+    margin-top: 2px;
+}
+
+#trending-main h3 a {
+    font-weight: 1px;
+    font-size: 13px;
+    text-decoration: underline;
+    color: #28334aff;
+    color: #f65058ff
+}
+
+#trending-main h3 a:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #f65058ff;
+    cursor: pointer;
+}
